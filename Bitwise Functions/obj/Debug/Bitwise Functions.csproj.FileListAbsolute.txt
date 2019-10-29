@@ -1,0 +1,7 @@
+C:\Cs Projects\Bitwise Functions\Bitwise Functions\bin\Debug\Bitwise Functions.exe.config
+C:\Cs Projects\Bitwise Functions\Bitwise Functions\bin\Debug\Bitwise Functions.exe
+C:\Cs Projects\Bitwise Functions\Bitwise Functions\bin\Debug\Bitwise Functions.pdb
+C:\Cs Projects\Bitwise Functions\Bitwise Functions\obj\Debug\Bitwise Functions.csprojAssemblyReference.cache
+C:\Cs Projects\Bitwise Functions\Bitwise Functions\obj\Debug\Bitwise Functions.csproj.CoreCompileInputs.cache
+C:\Cs Projects\Bitwise Functions\Bitwise Functions\obj\Debug\Bitwise Functions.exe
+C:\Cs Projects\Bitwise Functions\Bitwise Functions\obj\Debug\Bitwise Functions.pdb
