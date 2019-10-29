@@ -3,15 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static Bitwise_Functions.BinaryUtil;
 
 namespace Bitwise_Functions
 {
     static class BitwiseUtil            // S T A T I C .
     {
-        private static uint[] ConvertToArray(uint value)
-        {
-            return value.ToString().Select(t => uint.Parse(t.ToString())).ToArray();
-        }
         public static string COMPLEMENT(uint value)
         {
             string result = "";

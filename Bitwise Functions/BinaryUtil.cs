@@ -21,5 +21,10 @@ namespace Bitwise_Functions
             result = Convert.ToString(valueAsInt) + result;
             return result;
         }
+
+        public static uint[] ConvertToArray(uint value)
+        {
+            return value.ToString().Select(t => uint.Parse(t.ToString())).ToArray();
+        }
     }
 }
